@@ -1,6 +1,21 @@
 # FutureEats
 
+## Stack
+Esse é um projeto de Frontend Web feito utilizando ReactJS, HTML e CSS; 
+e com o gerenciador de pacotes do NodeJS o npm. 
 
+## Sobre
+Esse é um projeto React Mobile First. É inspirado em Apps de comidas como IFood, Rappi entre outros.
+O App permite ao usuário efetuar seu cadastro, pesquisar por comidas, adicionar ao carrinho
+quantidade de itens, selecionar formas de pagamento e efetuar seu pedido.
+Há integrações com APIs externas nesse projeto.
+## Instruções para rodar
+Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
+sua máquina, basta abrir o terminal e navegar até o repositório clonado e 
+rodar:
+
+1. `npm install` para instalar todas as dependências;
+2. `npm run start` para rodar localmente o projeto
 
 ## Visite: [FutureEats](https://labefood-6.surge.sh/)
 
