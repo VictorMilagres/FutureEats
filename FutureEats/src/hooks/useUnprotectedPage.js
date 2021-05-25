@@ -1,0 +1,20 @@
+import { useLayoutEffect } from "react"
+import { useHistory } from "react-router"
+import { goToHome } from "routes/coordinator"
+
+
+const useUnprotectedPage = () => {
+
+    const history = useHistory()
+
+    useLayoutEffect(() => {
+
+        const token = localStorage.getItem('token')
+
+        if (token) {
+            goToHome(history)
+        }
+    }, [history])
+}
+
+export default useUnprotectedPage;
