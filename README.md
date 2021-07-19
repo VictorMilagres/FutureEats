@@ -35,6 +35,4 @@ rodar:
 
 ![Captura de tela 2021-05-08 232350](https://user-images.githubusercontent.com/57108685/117558568-f212ec80-b054-11eb-86df-3d8bc7647e1f.png)
 
-![Captura de tela 2021-05-08 232420](https://user-images.githubusercontent.com/57108685/117558569-f2ab8300-b054-11eb-82c5-7567e8ddaf4c.png)
-
 ![Captura de tela 2021-05-08 232459](https://user-images.githubusercontent.com/57108685/117558570-f2ab8300-b054-11eb-8948-2a278870abd0.png)
