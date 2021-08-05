@@ -44,7 +44,7 @@ height: 58px;
 margin-bottom: 30px;
 `
 export const ButtonEats = styled(Button) `
-  width: 40rem;
+  width: 328px;
   height: 42px;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
