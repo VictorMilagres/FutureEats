@@ -25,7 +25,7 @@ rodar:
 - Hooks
 - Styled-Components
 
-## Visite: [FutureEats](https://labefood-6.surge.sh/)
+## Visite: [FutureEats](http://futureeats-victordev.surge.sh/)
 
 ## Imagens:
 
